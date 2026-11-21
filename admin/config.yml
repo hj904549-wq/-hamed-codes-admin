@@ -8,7 +8,6 @@ backend:
   name: turbo-github
   turbo_site_id: 53686ec9-b7b7-4082-a845-b0064c1ee311
   branch: cms-content
-
 media_folder: "content/uploads"
 public_folder: "/content/uploads"
 
